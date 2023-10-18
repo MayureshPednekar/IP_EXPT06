@@ -9,11 +9,6 @@ function Skills() {
         <li>React</li>
         <li>HTML/CSS</li>
         <li>JavaScript</li>
-        <li>React</li>
-        <li>HTML/CSS</li>
-        <li>JavaScript</li>
-        <li>React</li>
-        <li>HTML/CSS</li>
       </ul>
     </section>
   );
